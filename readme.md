@@ -26,5 +26,5 @@ L'utilisateur entre des informations sur l'élève (genre, origine, niveau d'éd
 
 ### 🔧 1. Cloner le projet  
 ```bash
-git clone 
+git clone https://github.com/mouhamedba99/student-performance-predictor.git
 cd student-performance-predictor
